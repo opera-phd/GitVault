@@ -5,4 +5,5 @@ I am only writing this as a way to test the local publication through Quartz of 
 ## result
 It is working! Even the locally published site displays the 404 page -- that I need to configure, by the way.
 ## second result
-I am editing this in the online editor to learn about the pull requests. The next thing that I will do now. And now I understand why I have no save button, but a commit changes.
+I am editing this in the online editor to learn about the pull requests. The next thing that I will do now. And now I understand why I have no save button, but a commit changes.  
+Since the pull request process was not very clear, maybe they changed interface, I will practice again.
