@@ -3,6 +3,9 @@
 ## premises
 
 This is a blank Quartz installation, by default.
+
+well, is it? can it 🏃‍♀️ with sync?
+
 See the [documentation](https://quartz.jzhao.xyz) for how to get started and go further.
 
 **Better yet, in bold**, but *also in italics* see the [Quartz manual](https://quartz.jzhao.xyz/). Oops, is the same thing...
@@ -27,7 +30,7 @@ I installed Git on my phone and I am thrilled by this opportunity. I can't remem
 
 ## collaboration
 
-I am thinking about a simple synchronization method that some of my students could use. Dropbox, MS One...,pCloud or Google Drive could represent some options. I could when play with Synology, but that would mean to keep it working full time. 
+I am thinking about a simple synchronization method that some of my students could use. Dropbox, MS One..., pCloud or Google Drive could represent some options. I could when play with Synology, but that would mean to keep it working full time. 
 
 
 
